@@ -1,0 +1,2 @@
+# Sales-Trend-Analysis-Using-Aggregations
+task 6
